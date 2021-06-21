@@ -16,16 +16,4 @@ void	ft_print_numbers(void)
 		putchar (numero);
 		numero++;
 	}
-	n = '9';
-	while (n >= '0')
-	{
-		putchar (n);
-		n--;
-	}
-}
-
-int	main(void)
-{
-	ft_print_numbers();
-	return 0;
 }
