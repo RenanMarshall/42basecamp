@@ -9,6 +9,6 @@ Grade: 100/100
 | 03  | midLS  | N/A  | OK  |
 | 04  | git_commit  | N/A  | OK  |
 | 05  | git_ignore  | N/A  | OK  |
-| 06  | b  | N/A  |   |
+| 06  | b  | N/A  | OK  |
 | 07  | clean  | N/A  | OK  |
 | 08  | ft_magic  | N/A  | OK  |
