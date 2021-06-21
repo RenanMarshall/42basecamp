@@ -12,13 +12,13 @@ void	ft_print_comb2(void)
 
 	pri = 0;
 	seg = 0;
-	while (pri <= 98) 0 1
+	while (pri <= 98)
 	{
 		seg = pri;
-		while (++seg <= 99) 99 2
+		while (++seg <= 99)
 		{
-			ft_putchar(pri / 10 + '0'); 0
-			ft_putchar(pri % 10 + '0'); 0
+			ft_putchar(pri / 10 + '0');
+			ft_putchar(pri % 10 + '0');
 			ft_putchar(' ');
 			ft_putchar(seg / 10 + '0');
 			ft_putchar(seg % 10 + '0');
